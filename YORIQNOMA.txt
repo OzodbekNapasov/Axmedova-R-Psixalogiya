@@ -1,0 +1,30 @@
+"Tibbiy psixologiya va shaxslararo muloqot" fani - Raqamli ta'lim resursi (RTR)
+Muallif: Axmedova Roxila, Shahrisabz Abu Ali ibn Sino nomidagi jamoat salomatligi texnikumi
+Yo'nalishlar: 50910208 - Hamshiralik ishi; 50910204 - Davolash ishi (I semestr, 60 soat)
+
+KOMPYUTERDA ISHGA TUSHIRISH
+1. Butun "Psixologiya-RTR" papkasini fleshka yoki kompyuterga ko'chiring.
+2. "index.html" faylini Google Chrome, Microsoft Edge yoki Firefox brauzerida oching.
+3. Internet talab qilinmaydi.
+
+TELEFONDA ISHGA TUSHIRISH (Android / iPhone)
+1. ZIP faylni telefonga yuklab oling va fayl menejerida arxivdan chiqaring.
+2. Papkadagi "index.html" faylini brauzerda oching.
+Eslatma: ZIP ichidan turib ochmang, avval arxivdan chiqaring.
+
+FOYDALANISH
+- Bosh sahifada yo'nalishni tanlang: "Hamshiralik ishi" yoki "Davolash ishi".
+  Har bir yo'nalish o'z KMR bo'yicha 20 ta mavzuni ko'rsatadi.
+- Mavzu ichida: Ma'ruza, Plakatlar, Test, Lug'at, Savollar, Mashq bo'limlari.
+- Pastki panel: Mavzular, Testlar (yakuniy test - 30 savol), Lug'at (qidiruv va kartochkalar), Natijalar.
+- Interaktiv mashqlar: baholash shkalalari (GAD-7, PHQ-9, PSS-10), temperament testi,
+  "kvadrat nafas" relaksatsiya mashqi, SPIKES protokoli, vaziyatli masalalar.
+- Natijalar shu qurilmaning brauzerida saqlanadi.
+
+TARKIBI
+index.html            - bosh sahifa (dasturiy qobiq)
+assets/app.css        - dizayn (iOS uslubi, yorug' va qorong'i rejim)
+assets/app.js         - dastur
+assets/data.js        - fan va yo'nalishlar ma'lumoti (KMR bo'yicha)
+assets/topics/        - mavzular kontenti (t01 ... t26)
+assets/plakatlar/     - infografika-plakatlar (25 ta)
